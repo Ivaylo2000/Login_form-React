@@ -1,0 +1,15 @@
+.btn {
+  font-size: large;
+  margin-top: 2rem;
+  width: 200px;
+  height: 30px;
+  padding: 0;
+  border: none;
+  font-weight: bold;
+  background-color: #c44c8a;
+  color: #ffffff;
+}
+
+.btn:hover {
+  cursor: pointer;
+}

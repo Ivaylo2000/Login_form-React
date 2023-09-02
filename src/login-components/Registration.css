@@ -1,0 +1,19 @@
+.registraion {
+  text-align: center;
+}
+
+p {
+  font-weight: bold;
+  font-size: medium;
+  font-size: 17px;
+}
+
+.singupbtn {
+  border: none;
+  background-color: #ad406f;
+  font-weight: bold;
+  font-size: 14px;
+  width: 100px;
+  height: 25px;
+  cursor: pointer;
+}
